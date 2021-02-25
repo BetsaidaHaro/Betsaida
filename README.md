@@ -22,7 +22,7 @@
 <div style="background-color:#FFFAF0">INFORMACIÓN PERSONAL</div>
 
  
-<img src="https://www.w3schools.com/html/BC1C3CE3-F263-46FF-9D87-B15E0F0BFC28.JPG">
+<img src="https://www.w3schools.com/html/BC1C3CE3-F263-46FF-9D87-B15E0F0BFC28.JPG" class="rounded-circle">
 <div style="background-color:#E6E6FA">Nombre:</div><p>Betsaida B. Haro</p>
 <div style="background-color:#FFF0F5">Edad:</div><p>22 años</p>
 <div style="background-color:#E0FFFF">Estudios:</div><p>Licenciatura en Comunicación y Artes Audiovisuales</p>
